@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\FeiGou\FeiGou\bin\Debug\FeiGou.exe
+C:\Users\Student\Desktop\FeiGou\FeiGou\bin\Debug\FeiGou.pdb
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.Form1.resources
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.Properties.Resources.resources
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.UCfriend.resources
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.exe
+C:\Users\Student\Desktop\FeiGou\FeiGou\obj\x86\Debug\FeiGou.pdb
